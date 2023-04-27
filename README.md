@@ -1,2 +1,9 @@
-### KT Aivle School Code Masters Season 2
+## KT Aivle School Code Masters Season 2
 --------
+기간 : 2023.04.24 ~ 2023.05.19
+문제 수 : 초급 + 중급 + 고급 => 100문제
+
+--------
+### 1. 초급
+- 스칼라곱  * 
+- 리그 * 
